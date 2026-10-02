@@ -14,6 +14,8 @@ Latest versions for Windows and Linux are available on the [Releases](https://gi
 
 ## Usage
 Take your Sekiro save file, load it up, and see what you're missing to complete it! 
+<img width="1093" height="784" alt="immagine" src="https://github.com/user-attachments/assets/e34913de-07ee-4371-8115-9e56449ac752" />
+
 
 ---
     Developed by melloXIII.
