@@ -9,7 +9,7 @@ A save analyzer for Sekiro: Shadows Die Twice
   - Clone save slots for backup
 
 ## Downloads
-    Latest versions for Windows and Linux are available on the [Releases](https://github.com/melloXIII/sekiro-save-analyzer/releases/latest) page.
+Latest versions for Windows and Linux are available on the [Releases](https://github.com/melloXIII/sekiro-save-analyzer/releases/latest) page.
 
 
 ## Usage
