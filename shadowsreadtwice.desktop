@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sekiro: Shadows Read Twice
+Exec=/opt/ShadowsReadTwice/ShadowsReadTwice
+Path=/opt/ShadowsReadTwice
+Icon=sekirologo
+Type=Application
+Categories=Utility;Game;
+StartupWMClass=ShadowsReadTwice
